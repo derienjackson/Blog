@@ -23,7 +23,7 @@ Blog creation app that utilizes CRUD operations to interact with blog posts stor
 <img src="https://i.imgur.com/Hl6qPUZ.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
   
 <p align="center">
-(Updated) Edit Screen - Edit the chosen blog post and save the updated post to server <br/>
+(Update) Edit Screen - Edit the chosen blog post and save the updated post to server <br/>
 <img src="https://i.imgur.com/YbbvUWR.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
     
 <p align="center">
