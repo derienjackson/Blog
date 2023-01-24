@@ -1,4 +1,4 @@
-# Blog
+# Blog (Mobile)
 <h2>Description</h2>
 Blog creation app that utilizes CRUD operations to interact with blog posts stored using JSON server
 <br />
